@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Author - eagleanurag -->
+<head>
+  <title>Team | Sankalp Racers</title>
+  <link rel="icon" type="image/ico" href="./quad.gif" />
+
+  <!-- Required meta tags -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no" />
+
+  <meta name="description"
+    content="The Team that makes what Sankalp Racers is today | FMAE QBDC team of NPS Engineering Institute, Pithoragarh" />
+  <meta name="google-site-verification" content="#" />
+  <meta name="keywords"
+    content="sankalp uttarakhand, quadbike uttrakhand, quadbike india, sanklap racers, sanklp racers india, racing india, fmae qbdc, qbdc racing, fmae qbdc sankalp, fmae qbdc partcipants, NPSEI, nanhi pari seemant engineering institute" />
+  <meta name="robots" content="INDEX, FOLLOW" />
+  <meta name="author" content="Anurag Pandey" />
+  <meta name="geo.region" content="IN" />
+  <link rel="canonical" href="" />
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+  <!-- External Fonts CDN -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+  <link rel="stylesheet" href="./styles/navigation.css" />
+  <link rel="stylesheet" href="./styles/team.css" />
+  <link rel="stylesheet" href="./styles/footer.css" />
+  <link rel="stylesheet" href="./styles/global.css" />
+</head>
+
+<body>
+  <header id="navigation"></header>
+  <br />
+  <br />
+  <br />
+  <br />
+
+  <div class="container">
+    <div class="h2 text-center font-weight-normal m-0">
+      Sankalp Racers Team
+    </div>
+  </div>
+  <section class="container tabbed-navigation mt-3" id="teams-content-main">
+    <ul class="nav nav-tabs my-2" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" data-toggle="tab" href="#T19-20">2019-20</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#T18-19">2018-19</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#T17-18">2017-18</a>
+      </li>
+    </ul>
+    <div class="tab-content font-weight-normal">
+      <div id="T19-20" class="tab-pane text-center active">
+        <h3 class="font-weight-normal py-3 m-0">Team 2019-20</h3>
+        <img src="./media/images/teams/Team 2019-20.jpg" class="img-fluid py-2"
+          alt="Team Sanakalp Racers India 2019-20" />
+        <div class="container px-2 py-3">
+          <div class="row w-100 m-0 p-0" id="team19_20"></div>
+        </div>
+        <script>
+          var xhttp19_20 = new XMLHttpRequest();
+          xhttp19_20.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+              var response = JSON.parse(xhttp19_20.responseText);
+              var teams = response.team19_20;
+              for (var i = 0; i < teams.length; i++) {
+                var n = "";
+                for (var j = 0; j < teams[i].names.length; j++) {
+                  n += "&bull;&nbsp;" + teams[i].names[j] + "<br>";
+                }
+                console.log(teams[i].designation);
+                document.getElementById("team19_20").innerHTML +=
+                  '<div class="col-md-4 px-1 py-2">' +
+                  '<div class="card font-weight-normal h-100 p-2">' +
+                  '<div class="card-title p m-0 py-1 text-center border-bottom border-dark">' +
+                  teams[i].designation +
+                  "</div>" +
+                  '<div class="card-body p m-0 p-1 text-left">' +
+                  n +
+                  "</div>" +
+                  "</div></div>";
+              }
+            }
+          };
+          xhttp19_20.open("GET", "./txt/teams.txt", true);
+          xhttp19_20.send();
+        </script>
+      </div>
+      <div id="T18-19" class="tab-pane text-center">
+        <h3 class="font-weight-normal py-3 m-0">Team 2018-19</h3>
+        <img src="./media/images/teams/Team 2018-19.jpg" class="img-fluid py-2"
+          alt="Team Sanakalp Racers India 2018-19" />
+        <div class="container px-2 py-3">
+          <div class="row w-100 m-0 p-0" id="team18_19"></div>
+        </div>
+        <script>
+          var xhttp18_19 = new XMLHttpRequest();
+          xhttp18_19.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+              var response = JSON.parse(xhttp18_19.responseText);
+              var teams = response.team18_19;
+              for (var i = 0; i < teams.length; i++) {
+                var n = "";
+                for (var j = 0; j < teams[i].names.length; j++) {
+                  n += "&bull;&nbsp;" + teams[i].names[j] + "<br>";
+                }
+                console.log(teams[i].designation);
+                document.getElementById("team18_19").innerHTML +=
+                  '<div class="col-md-4 px-1 py-2"><div class="card font-weight-normal h-100 p-2">' +
+                  '<div class="card-title p m-0 py-1 text-center border-bottom border-dark">' +
+                  teams[i].designation +
+                  "</div>" +
+                  '<div class="card-body p m-0 p-1 text-left">' +
+                  n +
+                  "</div>" +
+                  "</div></div>";
+              }
+            }
+          };
+          xhttp18_19.open("GET", "./txt/teams.txt", true);
+          xhttp18_19.send();
+        </script>
+      </div>
+      <div id="T17-18" class="tab-pane fade text-center">
+        <h3 class="font-weight-normal py-3 m-0">Team 2017-18</h3>
+        <img src="./media/images/teams/Team 2017-18.jpg" class="img-fluid py-2"
+          alt="Team Sanakalp Racers India 2017-18" />
+        <div class="container px-2 py-3">
+          <div class="row w-100 m-0 p-0" id="team17_18"></div>
+        </div>
+        <script>
+          var xhttp17_18 = new XMLHttpRequest();
+          xhttp17_18.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+              var response = JSON.parse(xhttp17_18.responseText);
+              var teams = response.team17_18;
+              for (var i = 0; i < teams.length; i++) {
+                var n = "";
+                for (var j = 0; j < teams[i].names.length; j++) {
+                  n += "&bull;&nbsp;" + teams[i].names[j] + "<br>";
+                }
+                console.log(teams[i].designation);
+                document.getElementById("team17_18").innerHTML +=
+                  '<div class="col-md-4 px-1 py-2"><div class="card font-weight-normal h-100 p-2">' +
+                  '<div class="card-title p m-0 py-1 text-center border-bottom border-dark">' +
+                  teams[i].designation +
+                  "</div>" +
+                  '<div class="card-body p m-0 p-1 text-left">' +
+                  n +
+                  "</div>" +
+                  "</div></div>";
+              }
+            }
+          };
+          xhttp17_18.open("GET", "./txt/teams.txt", true);
+          xhttp17_18.send();
+        </script>
+      </div>
+      <div id="T16-17" class="tab-pane fade text-center">
+        <h3 class="font-weight-normal py-3 m-0">Team 2016-17</h3>
+        <img src="./media/images/teams/Team 2016-17.jpeg" class="img-fluid py-2"
+          alt="Team Sanakalp Racers India 2016-17" />
+        <div class="container px-2 py-3">
+          <div class="row w-100 m-0 p-0" id="team16_17"></div>
+        </div>
+        <script>
+          var xhttp16_17 = new XMLHttpRequest();
+          xhttp16_17.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+              var response = JSON.parse(xhttp16_17.responseText);
+              var teams = response.team16_17;
+              for (var i = 0; i < teams.length; i++) {
+                var n = "";
+                for (var j = 0; j < teams[i].names.length; j++) {
+                  n += "&bull;&nbsp;" + teams[i].names[j] + "<br>";
+                }
+                console.log(teams[i].designation);
+                document.getElementById("team16_17").innerHTML +=
+                  '<div class="col-md-4 px-1 py-2"><div class="card font-weight-normal h-100 p-2">' +
+                  '<div class="card-title p m-0 py-1 text-center border-bottom border-dark">' +
+                  teams[i].designation +
+                  "</div>" +
+                  '<div class="card-body p m-0 p-1 text-left">' +
+                  n +
+                  "</div>" +
+                  "</div></div>";
+              }
+            }
+          };
+          xhttp16_17.open("GET", "./txt/teams.txt", true);
+          xhttp16_17.send();
+        </script>
+      </div>
+    </div>
+  </section>
+  <div id="footer"></div>
+  <script src="scripts/navigation.js"></script>
+  <script src="scripts/footer.js"></script>
+
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+    integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+    crossorigin="anonymous"></script>
+
+</body>
+
+</html>
