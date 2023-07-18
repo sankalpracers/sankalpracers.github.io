@@ -1,0 +1,827 @@
+{
+    "team19_20": [
+        {
+            "designation": "Captain",
+            "names": [
+                "Vikesh Singh"
+            ]
+        },
+        {
+            "designation": "Technical Coordinator",
+            "names": [
+                "Mr. Kundan Singh"
+            ]
+        },
+        {
+            "designation": "Admin",
+            "names": [
+                "Anuj Sonkar"
+            ]
+        },
+        {
+            "designation": "Drivers",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Chassis",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Transmission",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Devansh Dedhia",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Suspension & Steering",
+            "names": [
+                "Lorem Ipsum (Suspension Head)",
+                "Lorem Ipsum (Steering Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Brakes",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "DAQ",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Website Admin",
+            "names": [
+                "Anurag Pandey"
+            ]
+        }
+    ],
+    "team18_19": [
+        {
+            "designation": "Captain",
+            "names": [
+                "Vikesh Singh"
+            ]
+        },
+        {
+            "designation": "Technical Coordinator",
+            "names": [
+                "Mr. Kundan Singh"
+            ]
+        },
+        {
+            "designation": "Admin",
+            "names": [
+                "Anuj Sonkar"
+            ]
+        },
+        {
+            "designation": "Drivers",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Chassis",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Transmission",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Devansh Dedhia",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Suspension & Steering",
+            "names": [
+                "Lorem Ipsum (Suspension Head)",
+                "Lorem Ipsum (Steering Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Brakes",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "DAQ",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        }
+    ],
+    "team17_18": [
+        {
+            "designation": "Captain",
+            "names": [
+                "Vikesh Singh"
+            ]
+        },
+        {
+            "designation": "Technical Coordinator",
+            "names": [
+                "Mr. Kundan Singh"
+            ]
+        },
+        {
+            "designation": "Admin",
+            "names": [
+                "Anuj Sonkar"
+            ]
+        },
+        {
+            "designation": "Drivers",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Chassis",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Transmission",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Devansh Dedhia",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Suspension & Steering",
+            "names": [
+                "Lorem Ipsum (Suspension Head)",
+                "Lorem Ipsum (Steering Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Brakes",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "DAQ",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        }
+    ],
+    "team16_17": [
+        {
+            "designation": "Captain",
+            "names": [
+                "Vikesh Singh"
+            ]
+        },
+        {
+            "designation": "Technical Coordinator",
+            "names": [
+                "Mr. Kundan Singh"
+            ]
+        },
+        {
+            "designation": "Admin",
+            "names": [
+                "Anuj Sonkar"
+            ]
+        },
+        {
+            "designation": "Drivers",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Chassis",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Transmission",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Devansh Dedhia",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Suspension & Steering",
+            "names": [
+                "Lorem Ipsum (Suspension Head)",
+                "Lorem Ipsum (Steering Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Brakes",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "DAQ",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Website Admin",
+            "names": [
+                "Anurag Pandey"
+            ]
+        }
+    ],
+    "team15_16": [
+        {
+            "designation": "Captain",
+            "names": [
+                "Vikesh Singh"
+            ]
+        },
+        {
+            "designation": "Technical Coordinator",
+            "names": [
+                "Mr. Kundan Singh"
+            ]
+        },
+        {
+            "designation": "Admin",
+            "names": [
+                "Anuj Sonkar"
+            ]
+        },
+        {
+            "designation": "Drivers",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Chassis",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Transmission",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Devansh Dedhia",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Suspension & Steering",
+            "names": [
+                "Lorem Ipsum (Suspension Head)",
+                "Lorem Ipsum (Steering Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Brakes",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "DAQ",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Website Admin",
+            "names": [
+                "Anurag Pandey"
+            ]
+        }
+    ],
+    "team14_15": [
+        {
+            "designation": "Captain",
+            "names": [
+                "Vikesh Singh"
+            ]
+        },
+        {
+            "designation": "Technical Coordinator",
+            "names": [
+                "Mr. Kundan Singh"
+            ]
+        },
+        {
+            "designation": "Admin",
+            "names": [
+                "Anuj Sonkar"
+            ]
+        },
+        {
+            "designation": "Drivers",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Chassis",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Transmission",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Devansh Dedhia",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Suspension & Steering",
+            "names": [
+                "Lorem Ipsum (Suspension Head)",
+                "Lorem Ipsum (Steering Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Brakes",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "DAQ",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Website Admin",
+            "names": [
+                "Anurag Pandey"
+            ]
+        }
+    ],
+    "team13_14": [
+        {
+            "designation": "Captain",
+            "names": [
+                "Vikesh Singh"
+            ]
+        },
+        {
+            "designation": "Technical Coordinator",
+            "names": [
+                "Mr. Kundan Singh"
+            ]
+        },
+        {
+            "designation": "Admin",
+            "names": [
+                "Anuj Sonkar"
+            ]
+        },
+        {
+            "designation": "Drivers",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Chassis",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Transmission",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Devansh Dedhia",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Suspension & Steering",
+            "names": [
+                "Lorem Ipsum (Suspension Head)",
+                "Lorem Ipsum (Steering Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Brakes",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "DAQ",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Website Admin",
+            "names": [
+                "Anurag Pandey"
+            ]
+        }
+    ],
+    "team12_13": [
+        {
+            "designation": "Captain",
+            "names": [
+                "Vikesh Singh"
+            ]
+        },
+        {
+            "designation": "Technical Coordinator",
+            "names": [
+                "Mr. Kundan Singh"
+            ]
+        },
+        {
+            "designation": "Admin",
+            "names": [
+                "Anuj Sonkar"
+            ]
+        },
+        {
+            "designation": "Drivers",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Chassis",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Transmission",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Devansh Dedhia",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Suspension & Steering",
+            "names": [
+                "Lorem Ipsum (Suspension Head)",
+                "Lorem Ipsum (Steering Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Brakes",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "DAQ",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Website Admin",
+            "names": [
+                "Anurag Pandey"
+            ]
+        }
+    ],
+    "team11_12": [
+        {
+            "designation": "Captain",
+            "names": [
+                "Vikesh Singh"
+            ]
+        },
+        {
+            "designation": "Technical Coordinator",
+            "names": [
+                "Mr. Kundan Singh"
+            ]
+        },
+        {
+            "designation": "Admin",
+            "names": [
+                "Anuj Sonkar"
+            ]
+        },
+        {
+            "designation": "Drivers",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Chassis",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Transmission",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Devansh Dedhia",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Suspension & Steering",
+            "names": [
+                "Lorem Ipsum (Suspension Head)",
+                "Lorem Ipsum (Steering Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Brakes",
+            "names": [
+                "Lorem Ipsum (Head)",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "DAQ",
+            "names": [
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum",
+                "Lorem Ipsum"
+            ]
+        },
+        {
+            "designation": "Website Admin",
+            "names": [
+                "Anurag Pandey"
+            ]
+        }
+    ]
+}

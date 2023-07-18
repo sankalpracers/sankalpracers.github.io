@@ -1,0 +1,40 @@
+{
+    "sponsors": [
+        {
+            "logo": "npsei.jpg",
+            "name": "NPS Engg Institute"
+        },
+        {
+            "logo": "ut.png"
+            "name": "Uttarakhand Tourism"
+        },
+        {
+            "logo": "Flagut.png"
+            "name": "Uttarakhand Govt."
+        },
+        {
+            "logo": "ministry.png",
+            "name": "MOE IND"
+        },
+        {
+            "logo": "Hari-Om.jpg",
+            "name": "Hari Om"
+        },
+        {
+            "logo": "teqipnpsei.jpg"
+            "name": "TEQIP"
+        },
+        {
+            "logo": "aicte.jpg",
+            "name": "AICTE"
+        },
+        {
+            "logo": "teqip.png",
+            "name": "TEQIP Phase II"
+        },
+        {
+            "logo": "Unt.png",
+            "name": "Uttarakhand"
+        }
+    ]
+}
